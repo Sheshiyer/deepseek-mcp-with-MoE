@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "deepseek": {
+      "command": "node",
+      "args": ["PATH_TO_SERVER/build/index.js"],
+      "env": {
+        "DEEPSEEK_API_KEY": "your-api-key-here",
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
