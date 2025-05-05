@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sheshiyer-deepseek-mcp-with-moe-badge.png)](https://mseep.ai/app/sheshiyer-deepseek-mcp-with-moe)
+
 # DeepSeek MCP Server
 
 An MCP server implementation that provides code generation and completion capabilities using the DeepSeek API, with support for tool chaining and cost optimization.
